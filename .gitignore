@@ -1,11 +1,13 @@
-/target
-/classes
-/checkouts
 pom.xml
 pom.xml.asc
-*.jar
-*.class
-/.lein-*
-/.nrepl-port
-.hgignore
-.hg/
+*jar
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+>>>>>>> e0b60319779fb0e143402f27da4926f35a7b92e5
